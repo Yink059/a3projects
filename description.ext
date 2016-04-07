@@ -1,3 +1,5 @@
+#include "MedYink\dialogs\defines.hpp"
+#include "MedYink\dialogs\main_window.hpp"
 #include "YGM\Dialogs\YinkGmDefines.hpp"
 
 respawn = "BASE";
